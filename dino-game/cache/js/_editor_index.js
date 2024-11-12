@@ -1,0 +1,14 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as __zestymarket_wonderland_sdk from '@zestymarket/wonderland-sdk';
+_registerEditor(__zestymarket_wonderland_sdk);
+import * as __Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_button_lb_toggle_js from '/Users/dmitrijkuprianov/WonderlandEngine/dino-game/js/button-lb-toggle.js';
+_registerEditor(__Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_button_lb_toggle_js);
+import * as __Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_button_start_js from '/Users/dmitrijkuprianov/WonderlandEngine/dino-game/js/button-start.js';
+_registerEditor(__Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_button_start_js);
+import * as __Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_button_js from '/Users/dmitrijkuprianov/WonderlandEngine/dino-game/js/button.js';
+_registerEditor(__Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_button_js);
+import * as __Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_obstacle_js from '/Users/dmitrijkuprianov/WonderlandEngine/dino-game/js/obstacle.js';
+_registerEditor(__Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_obstacle_js);
+import * as __Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_player_control_js from '/Users/dmitrijkuprianov/WonderlandEngine/dino-game/js/player-control.js';
+_registerEditor(__Users_dmitrijkuprianov_WonderlandEngine_dino_game_js_player_control_js);
